@@ -1,0 +1,47 @@
+[
+{
+  "directory": "/mnt/c/Users/DELL/blockchain/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/blockchain.dir/src/blockchain/CBlock.cpp.o -c /mnt/c/Users/DELL/blockchain/src/blockchain/CBlock.cpp",
+  "file": "/mnt/c/Users/DELL/blockchain/src/blockchain/CBlock.cpp"
+},
+{
+  "directory": "/mnt/c/Users/DELL/blockchain/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/blockchain.dir/src/blockchain/CChain.cpp.o -c /mnt/c/Users/DELL/blockchain/src/blockchain/CChain.cpp",
+  "file": "/mnt/c/Users/DELL/blockchain/src/blockchain/CChain.cpp"
+},
+{
+  "directory": "/mnt/c/Users/DELL/blockchain/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/blockchain.dir/src/blockchain/CLog.cpp.o -c /mnt/c/Users/DELL/blockchain/src/blockchain/CLog.cpp",
+  "file": "/mnt/c/Users/DELL/blockchain/src/blockchain/CLog.cpp"
+},
+{
+  "directory": "/mnt/c/Users/DELL/blockchain/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/blockchain.dir/src/blockchain/net/CClient.cpp.o -c /mnt/c/Users/DELL/blockchain/src/blockchain/net/CClient.cpp",
+  "file": "/mnt/c/Users/DELL/blockchain/src/blockchain/net/CClient.cpp"
+},
+{
+  "directory": "/mnt/c/Users/DELL/blockchain/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/blockchain.dir/src/blockchain/net/CServer.cpp.o -c /mnt/c/Users/DELL/blockchain/src/blockchain/net/CServer.cpp",
+  "file": "/mnt/c/Users/DELL/blockchain/src/blockchain/net/CServer.cpp"
+},
+{
+  "directory": "/mnt/c/Users/DELL/blockchain/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/blockchain.dir/src/blockchain/net/INet.cpp.o -c /mnt/c/Users/DELL/blockchain/src/blockchain/net/INet.cpp",
+  "file": "/mnt/c/Users/DELL/blockchain/src/blockchain/net/INet.cpp"
+},
+{
+  "directory": "/mnt/c/Users/DELL/blockchain/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/blockchain.dir/src/blockchain/storage/CStorageLocal.cpp.o -c /mnt/c/Users/DELL/blockchain/src/blockchain/storage/CStorageLocal.cpp",
+  "file": "/mnt/c/Users/DELL/blockchain/src/blockchain/storage/CStorageLocal.cpp"
+},
+{
+  "directory": "/mnt/c/Users/DELL/blockchain/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/blockchain.dir/src/blockchain/storage/storage.cpp.o -c /mnt/c/Users/DELL/blockchain/src/blockchain/storage/storage.cpp",
+  "file": "/mnt/c/Users/DELL/blockchain/src/blockchain/storage/storage.cpp"
+},
+{
+  "directory": "/mnt/c/Users/DELL/blockchain/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/blockchain.dir/src/main.cpp.o -c /mnt/c/Users/DELL/blockchain/src/main.cpp",
+  "file": "/mnt/c/Users/DELL/blockchain/src/main.cpp"
+}
+]

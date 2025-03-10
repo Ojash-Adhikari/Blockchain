@@ -1,0 +1,3 @@
+/mnt/c/Users/DELL/blockchain/build/CMakeFiles/blockchain.dir
+/mnt/c/Users/DELL/blockchain/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/DELL/blockchain/build/CMakeFiles/rebuild_cache.dir
